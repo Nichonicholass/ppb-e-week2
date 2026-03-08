@@ -1,6 +1,9 @@
-# tugas_pertama
+# Assigntment Week 2
+Flutter project.
+Nicholas | 5025231031
 
-A new Flutter project.
+## Description
+A foundational Flutter project built to understand the basics of mobile development. This project focuses on the initial environment setup and exploring core UI customizations, specifically modifying interface colors and implementing custom typography.
 
 ## Getting Started
 
